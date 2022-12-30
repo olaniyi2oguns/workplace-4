@@ -250,5 +250,15 @@ In addition, I also created another file called index.html inside the public fol
 </html>
 ```
 
+After this has been done I started the server with the command `sudo node server.js` and checked my browser for expected output as shown below:
+
+![Book 1](./image-4/final%20result.jpg)
+
+![Book 2](./image-4/final-result-2.jpg)
+
+All the changes made on the browser reflected on my server which confirmed the correctness of my configurations as shown in the image below:
+
+![Final Output](./image-4/final-output.jpg)
+
 
 
